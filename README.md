@@ -18,6 +18,12 @@ To write a program to perform selection sort and insertion sort using python pro
 4.	Break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
+```
+NAME:JERUSHLIN JOSE J B 
+REG NO: 212222240039
+```
+
+
 i)	#Selection Sort
 ```
 
@@ -39,6 +45,15 @@ selection_sort(list_of_nums)
 
 ```
 ii)	#Insertion Sort
+
+```
+NAME:JERUSHLIN JOSE J B 
+REG NO: 212222240039
+```
+
+
+
+
 ```
 
 def insertion_sort(nums):
@@ -66,7 +81,7 @@ insertion_sort(list_of_nums)
 
 
 
-![image](https://github.com/Jerushli/Sorting-Algorithm/assets/120041243/06746771-aaf4-4fe4-a735-c5b2631067a1)
+![image](https://github.com/Jerushli/Sorting-Algorithm/assets/120041243/275d2f4f-28f8-4f24-8b41-09dbf5a11ea5)
 
 
 
@@ -75,7 +90,9 @@ insertion_sort(list_of_nums)
 
 
 
-![image](https://github.com/Jerushli/Sorting-Algorithm/assets/120041243/7490a33a-2adc-4770-a00b-9a44952bb9ac)
+
+![image](https://github.com/Jerushli/Sorting-Algorithm/assets/120041243/3307524e-4820-46ea-9e9e-7993857adf35)
+
 
 
 
